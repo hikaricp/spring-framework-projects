@@ -11,7 +11,6 @@ import com.yangjchang.b_factory.dao.impl.DemoOracleImpl;
 public class BeanFactory {
 
     public static DemoDao getDemoDao() {
-        // return new DemoDaoImpl();
-        return new DemoOracleImpl();
+        return new DemoDaoImpl();
     }
 }
