@@ -1,6 +1,5 @@
 target/
 .idea/
-spring-framework-projects/*/target//
 *.iml
 *.class
 *.jar
